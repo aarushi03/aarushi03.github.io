@@ -1,7 +1,7 @@
 # --- General options --- #
 
 # Name of website
-title: Hi, I'm Aarushi!
+title: Aarushi Sehgal
 
 # Short description of your site
 description: A virtual proof that I'm awesome
@@ -21,6 +21,10 @@ description: A virtual proof that I'm awesome
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
+  Publications:
+    - Poems: "http://deanattali.com/beautiful-jekyll/"
+  Internships: "aboutme"
+  Projects: "aboutme"
   Resources:
     #- Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
