@@ -23,8 +23,8 @@ navbar-links:
   About Me: "aboutme"
   Publications:
     - Poems: "http://deanattali.com/beautiful-jekyll/"
-  Internships: "aboutme"
-  Projects: "aboutme"
+  Internships: "internships"
+  Projects: "projects"
   Resources:
     #- Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
