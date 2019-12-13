@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Flake it till you make it
-subtitle: Excerpt from Soulshaping by Jeff Brown
+title: Contract Theory Based Medium Access Contention Resolution in TDMA Cognitive Radio Networks
+subtitle: Authors - Sanjay Kumar Dhurandher, Nitin Gupta, Petros Nicopolitidis
 bigimg: /img/path.jpg
 tags: [books, test]
 ---
