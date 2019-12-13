@@ -1,4 +1,3 @@
-## Internships
 
 **Summer Research Intern, Inter University Accelerator Centre, New Delhi, India (2017)**
 
