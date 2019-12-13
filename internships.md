@@ -1,4 +1,6 @@
 
+## Internships
+
 **Summer Research Intern, Inter University Accelerator Centre, New Delhi, India (2017)**
 
 * Made an Ethernet based server for remotely controlling a P.I.D. Controller device for advance studies on ions and their nature.
