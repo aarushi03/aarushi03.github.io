@@ -18,7 +18,7 @@ I am currently pursuing my <strong>Bachelors in Computer Science</strong> degree
 
 <p class="about-text">
 <span class="fa fa-code about-icon"></span>
-I am an ML and Data Science enthusiast cum practitioner. Oh, and I do Love to Code<span class="fa fa-heart-r about-icon"></span>
+I am an ML and Data Science enthusiast cum practitioner. Oh, and I do Love to Code<span class="fa fa-heart about-icon"></span>
 </p>
 
 <p class="about-text">
