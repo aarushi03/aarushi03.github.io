@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Contract Theory Approach-Based Scheme to Encourage Secondary Users for Cooperative Sensing in Cognitive Radio Networks
-subtitle: **Authors** - Aarushi Sehgal, Sanjay Kumar Dhurandher, Nitin Gupta
+subtitle: Aarushi Sehgal, Sanjay Kumar Dhurandher, Nitin Gupta
 gh-repo: aarushi03
 gh-badge: [star, fork, follow]
 tags: [test]
