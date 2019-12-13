@@ -1,7 +1,6 @@
 ---
 layout: post
 title: A Contract Theory Approach-Based Scheme to Encourage Secondary Users for Cooperative Sensing in Cognitive Radio Networks
-subtitle: Nitin Gupta, Sanjay Kumar Dhurandher
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
