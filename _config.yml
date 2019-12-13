@@ -22,7 +22,8 @@ description: A virtual proof that I'm awesome
 navbar-links:
   About Me: "aboutme"
   Publications:
-    - Poems: "http://deanattali.com/beautiful-jekyll/"
+    - Research Papers: "https://ieeexplore.ieee.org/document/8770303"
+    - Poems: "https://englishclubnith.wordpress.com/2016/08/31/i-have-a-dream/"
   Internships: "internships"
   Projects: "projects"
   Resources:
