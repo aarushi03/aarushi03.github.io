@@ -13,7 +13,7 @@
 * Using the **protein coded by KPC genes i.e. Carbapenam Hydrolyzing Beta Lectamase** as basis drew inferences regarding protein structure changes and amino acids responsible for the pathogenicity and drug resistance phenomenon.
 * Worked on **analyzing and predicting the structure of query protein through Protein Homology Modelling and protein-drug interactions through Docking.**
 
-**<span class="fa fa-briefcase about-icon"></span>S  ummer Research Intern, University of British Columbia(UBC), B.C., Canada (2019)**
+**<span class="fa fa-briefcase about-icon"></span>  Summer Research Intern, University of British Columbia(UBC), B.C., Canada (2019)**
 
 * Worked on two projects **using data extraction, pre-processing, filtering, data analysis, bioinformatics algorithms and huge amount of statistical analysis, graphical analysis and machine learning using Random Forest and K means clustering.**
 * First project consisted of **Analysis of data pertaining to Fecal Microbiome Transplant (FMT)**, a leading technology, including patient and donor observations.
